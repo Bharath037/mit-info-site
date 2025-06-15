@@ -1,5 +1,6 @@
 // src/components/Admin/DepartmentManager.jsx
 import React from "react";
+import { motion } from "framer-motion";
 
 const departments = [
   { code: "CSE", name: "Computer Science & Engineering" },

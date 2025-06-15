@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { motion } from "framer-motion";
 import { AnimatePresence } from "framer-motion";
 //import Lightbox from "react-image-lightbox";
 //import "react-image-lightbox/style.css";

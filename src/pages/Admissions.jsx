@@ -1,4 +1,5 @@
 import React from "react";
+import { motion } from "framer-motion";
 
 const featureData = [
   { title: "Top Faculty", icon: "🎓", desc: "World-renowned experts committed to your success." },

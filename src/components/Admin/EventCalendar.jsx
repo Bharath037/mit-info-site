@@ -1,4 +1,5 @@
 import React from "react";
+import { motion } from "framer-motion";
 
 const events = [
   { date: "2025-06-20", title: "📘 Mid Sem Exams Begin" },
