@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 import { GraduationCap, UserCog, ShieldCheck } from "lucide-react";
 
 const users = [

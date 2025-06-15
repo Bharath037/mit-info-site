@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 import { FaUserTie } from "react-icons/fa";
 
 const StaffProfileCard = ({ staff }) => {

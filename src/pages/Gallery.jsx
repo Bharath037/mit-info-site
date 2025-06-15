@@ -1,9 +1,11 @@
 import React, { useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
+import { AnimatePresence } from "framer-motion";
 //import Lightbox from "react-image-lightbox";
 //import "react-image-lightbox/style.css";
 import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
+
+
 const galleryData = {
   "Campus Aerials": [
     { src: "https://wallpapers.com/images/high/aerial-view-of-stata-center-mit-rifl87ol60tkfier.webp", title: "MIT Stata Center Aerial" },

@@ -3,7 +3,6 @@ import { useNavigate } from "react-router-dom";
 import StaffProfileCard from "./StaffProfileCard";
 import ClassListPanel from "./ClassListPanel";
 import NoticesPanel from "../Students/NoticesPanel";
-import { motion } from "framer-motion";
 import students from "../../data/students"; // ✅ Default import
 
 const staff = {

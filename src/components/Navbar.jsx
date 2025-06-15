@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import { motion, AnimatePresence } from "framer-motion";
-import { Link, useLocation } from "react-router-dom";
+import { AnimatePresence } from "framer-motion";
+import { useLocation } from "react-router-dom";
 
 const Navbar = () => {
   const [show, setShow] = useState(true);

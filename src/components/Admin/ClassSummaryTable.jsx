@@ -1,6 +1,5 @@
 // src/components/Admin/ClassSummaryTable.jsx
 import React from "react";
-import { motion } from "framer-motion";
 
 const mockClassData = [
   { className: "CSE 2nd Year", total: 54, present: 89, absent: 11 },

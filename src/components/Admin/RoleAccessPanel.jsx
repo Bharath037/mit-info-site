@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 import { ShieldCheck, UserCog, GraduationCap } from "lucide-react";
 
 const roles = [

@@ -1,5 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
 
 const textVariants = {
   hidden: { opacity: 0, x: -50 },

@@ -1,8 +1,4 @@
 import React from "react";
-import { motion } from "framer-motion";
-import { Link } from "react-router-dom";
-
-const mitRed = "#a31f34";
 
 const featureData = [
   { title: "Top Faculty", icon: "🎓", desc: "World-renowned experts committed to your success." },

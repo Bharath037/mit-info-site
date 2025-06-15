@@ -3,7 +3,6 @@ import StudentProfileCard from "./StudentProfileCard";
 import GradesPanel from "./GradesPanel";
 import ProjectsPanel from "./ProjectsPanel";
 import NoticesPanel from "../Students/NoticesPanel";
-import { motion } from "framer-motion"; // For future enhancements
 
 const student = {
   name: "John Doe",
