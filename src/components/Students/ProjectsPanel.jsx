@@ -1,5 +1,4 @@
 import React from "react";
-import { FlaskConical } from "lucide-react";
 
 const projects = [
   {
